@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context  antiJARLocking="true" path="/HinnaShop">
+<Resource name="SE140802" type ="javax.sql.DataSource" auth="Container"
+          driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+          url="jdbc:sqlserver://localhost:1433;databaseName=HinnaShop;instanceName=DESKTOP-1V9I55U\SQLEXPRESS"
+          username="sa" password="123"
+/></Context>
